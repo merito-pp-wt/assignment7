@@ -1,5 +1,7 @@
 /**
  * Klasa reprezentująca kwadrat
  * Kurs: Podstawy programowania
- */public class Square {
+ */
+
+public class Square {
 }

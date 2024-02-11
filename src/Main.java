@@ -2,6 +2,7 @@
  * Główna klasa aplikacji
  * Kurs: Podstawy programowania
  */
+
 public class Main {
     public static void main(String[] args) {
         Figure[] figures;

@@ -1,5 +1,7 @@
 /**
  * Klasa reprezentująca prostokąt
  * Kurs: Podstawy programowania
- */public class Rectangle{
+ */
+
+public class Rectangle{
 }
